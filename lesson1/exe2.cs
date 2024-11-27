@@ -8,13 +8,11 @@ namespace Exercises.lesson1
         {
             static int RecursiveMethod(int depth, int localArraySize)
             {
-                if (depth > 10000) // תנאי לעצירה בטוחה
-                {
-                    return depth;
-                }
                 // TODO: Implement a recursive method that:
                 // 1. Creates a local byte array of specified size
                 byte[] localArray = new byte[localArraySize];
+                int num = 10;
+                string str= "Hi";
                 // 2. Prints current recursion depth
                 Console.WriteLine($"Current depth: {depth}");
                 // 3. Recursively calls itself, incrementing depth
@@ -28,7 +26,7 @@ namespace Exercises.lesson1
                 }
             }
             // Experiment with different local array sizes
-            int[] arraySizes = { 1,2, 3 };
+            int[] arraySizes = { 10000 };
             foreach (int size in arraySizes)
             {
                 Console.WriteLine($"\nExperiment with local array size: {size} bytes");

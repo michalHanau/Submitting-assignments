@@ -6,12 +6,17 @@ namespace Exercises.lesson1
     {
         public int X { get; set; }
         public int Y { get; set; }
+        public int Z { get; set; }
+        public int W { get; set; }
     }
 
     public struct StructPoint
     {
         public int X { get; set; }
         public int Y { get; set; }
+        //public int Z { get; set; }
+        //public int W { get; set; }
+
     }
     public static class PointOperations
     {
