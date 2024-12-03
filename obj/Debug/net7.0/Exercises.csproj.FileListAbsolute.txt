@@ -13,3 +13,18 @@ C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises\obj\Debug\net
 C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises\obj\Debug\net7.0\Exercises.pdb
 C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises\obj\Debug\net7.0\Exercises.genruntimeconfig.cache
 C:\Users\המחשב שלי\Desktop\מדמח-שנה א\C#\Exercises\obj\Debug\net7.0\ref\Exercises.dll
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\Exercises.csproj.AssemblyReference.cache
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\Exercises.AssemblyInfo.cs
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\Exercises.dll
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\refint\Exercises.dll
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\Exercises.pdb
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\bin\Debug\net7.0\Exercises.exe
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\bin\Debug\net7.0\Exercises.deps.json
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\bin\Debug\net7.0\Exercises.runtimeconfig.json
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\bin\Debug\net7.0\Exercises.dll
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\bin\Debug\net7.0\Exercises.pdb
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\Exercises.genruntimeconfig.cache
+C:\Users\המחשב שלי\Desktop\תואר לימודים\תיקיה חדשה\obj\Debug\net7.0\ref\Exercises.dll

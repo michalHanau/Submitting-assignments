@@ -1,4 +1,5 @@
 ﻿using Exercises.lesson1;
+using Exercises.lesson2;
 using System;
 
 namespace Exercises.Lesson1
@@ -7,6 +8,7 @@ namespace Exercises.Lesson1
     {
         private static void Main(string[] args)
         {
+            answer.main();
             //exe1
             //var classPoint = new ClassPoint { X = 5, Y = 5 };
             //PointOperations.MovePoint(classPoint, 2, 3);

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\המחשב שלי\\Desktop\\מדמח-שנה א\\C#\\Exercises\\Exercises.csproj",
+      "projectUniqueName": "C:\\Users\\המחשב שלי\\Desktop\\תואר לימודים\\תיקיה חדשה\\Exercises.csproj",
       "projectName": "Exercises",
-      "projectPath": "C:\\Users\\המחשב שלי\\Desktop\\מדמח-שנה א\\C#\\Exercises\\Exercises.csproj",
+      "projectPath": "C:\\Users\\המחשב שלי\\Desktop\\תואר לימודים\\תיקיה חדשה\\Exercises.csproj",
       "packagesPath": "C:\\Users\\המחשב שלי\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\המחשב שלי\\Desktop\\מדמח-שנה א\\C#\\Exercises\\obj\\",
+      "outputPath": "C:\\Users\\המחשב שלי\\Desktop\\תואר לימודים\\תיקיה חדשה\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
