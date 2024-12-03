@@ -9,6 +9,8 @@ namespace Exercises.Lesson1
         private static void Main(string[] args)
         {
             answer.main();
+
+
             //exe1
             //var classPoint = new ClassPoint { X = 5, Y = 5 };
             //PointOperations.MovePoint(classPoint, 2, 3);
@@ -27,6 +29,7 @@ namespace Exercises.Lesson1
             //exe3
             long intArraySize = MemoryAnalyzer.CalculateArraySize<int>(0);
             Console.WriteLine($"Int Array Allocation: {intArraySize} bytes");
+
 
             long doubleArraySize = MemoryAnalyzer.CalculateArraySize<double>(0);
             Console.WriteLine($"Double Array Allocation: {doubleArraySize} bytes");
