@@ -28,7 +28,6 @@ namespace Exercises.Lesson1
             long intArraySize = MemoryAnalyzer.CalculateArraySize<int>(0);
             Console.WriteLine($"Int Array Allocation: {intArraySize} bytes");
 
-
             long doubleArraySize = MemoryAnalyzer.CalculateArraySize<double>(0);
             Console.WriteLine($"Double Array Allocation: {doubleArraySize} bytes");
 
